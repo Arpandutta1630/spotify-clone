@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+body{
+    background-color: aqua;
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    font-family:'ubuntu', sans-serif;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    list-style-type:none;
+    height: 89px;
+    background-color: azure;
+    color: black;
+}
+.brand img{
+    width: 44px;
+}
